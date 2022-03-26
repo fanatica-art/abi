@@ -1,0 +1,53 @@
+{
+  "56": {
+    "contracts": {
+      "Any20": {
+        "default": {
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/Any20.json"
+        }
+      },
+      "MC": {
+        "v1": {
+          "address": "0x62450d166023320542BE4D4D6337f99D6194927A",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/Any20.json"
+        }
+      },
+      "MCNFT": {
+        "v1": {
+          "address": "0x23e821c80221f4AA547439317C4Df6CBdC4f25DC",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/MCNFT.json"
+        }
+      },
+      "MCSingleMarket": {
+        "v1": {
+          "address": "0x89D5DbB78221a8c30F12Ff841046e78918Fcc94E",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/MCSingleMarket-v1.json"
+        },
+        "v2": {
+          "address": "0x4Ea5Dc57Df2b0ACB1241e97B280A73828B18c1Ea",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/MCSingleMarket-v2.json"
+        }
+      },
+      "MCSingleAuction": {
+        "v2": {
+          "address": "0x5188FCc4Fe3C7ED0d44d05F5Ddf4598707e1a14f",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/MCSingleAuction-v2.json"
+        }
+      },
+      "MCLottery": {
+        "v2": {
+          "address": "0xDe315ace788241D32525dEC38AB44969F21F4517",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/master/abi/MCLottery-v2.json"
+        }
+      }
+    },
+    "current": {
+      "Any20": "default",
+      "MC": "v1",
+      "MCNFT": "v1",
+      "MCSingleMarket": "v2",
+      "MCSingleAuction": "v2",
+      "MCLottery": "v2"
+    }
+  }
+}
