@@ -14,13 +14,13 @@
       },
       "MCNFT": {
         "v1": {
-          "address": "0x23e821c80221f4AA547439317C4Df6CBdC4f25DC",
+          "address": "0xEDDeac17802673EF8C7F1297E2712Bf56f01ef84",
           "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCNFT.json"
         }
       },
       "MCSingleMarket": {
         "v1": {
-          "address": "0x89D5DbB78221a8c30F12Ff841046e78918Fcc94E",
+          "address": "0x6f1fBAf41c68dc6DF7e99Fd2CE26Fc8483017Dca",
           "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCSingleMarket-v1.json"
         },
         "v2": {
