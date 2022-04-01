@@ -36,7 +36,7 @@
       },
       "MCLottery": {
         "v2": {
-          "address": "0xDe315ace788241D32525dEC38AB44969F21F4517",
+          "address": "0x1DFEa3C393F28900989acf7866dBe6E6Eca62D01",
           "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCLottery-v2.json"
         }
       }
