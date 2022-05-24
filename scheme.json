@@ -15,7 +15,11 @@
       "MCNFT": {
         "v1": {
           "address": "0xEDDeac17802673EF8C7F1297E2712Bf56f01ef84",
-          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCNFT.json"
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCNFT-v1.json"
+        },
+        "v2": {
+          "address": "0xb233B3CCC3fd4B2BD05DC5C63152b63b5482BBBa",
+          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCNFT-v2.json"
         }
       },
       "MCSingleMarket": {
@@ -44,7 +48,7 @@
     "current": {
       "Any20": "default",
       "MC": "v1",
-      "MCNFT": "v1",
+      "MCNFT": "v2",
       "MCSingleMarket": "v2",
       "MCSingleAuction": "v2",
       "MCLottery": "v2"
