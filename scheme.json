@@ -23,37 +23,27 @@
         }
       },
       "MCSingleMarket": {
-        "v1": {
-          "address": "0x6f1fBAf41c68dc6DF7e99Fd2CE26Fc8483017Dca",
-          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCSingleMarket-v1.json"
-        },
-        "v2": {
-          "address": "0x4Ea5Dc57Df2b0ACB1241e97B280A73828B18c1Ea",
-          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCSingleMarket-v2.json"
-        },
         "v3": {
           "address": "0x1247f6B2Ee82742AEE34d932D0720bbF83d289dA",
           "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCSingleMarket-v3.json"
         }
       },
       "MCSingleAuction": {
-        "v2": {
-          "address": "0x5188FCc4Fe3C7ED0d44d05F5Ddf4598707e1a14f",
-          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCSingleAuction-v2.json"
-        },
         "v3": {
           "address": "0x54C56c56DCbD14e4884e72aB01735fBd36472a94",
           "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCSingleAuction-v3.json"
         }
       },
       "MCLottery": {
-        "v2": {
-          "address": "0x1DFEa3C393F28900989acf7866dBe6E6Eca62D01",
-          "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCLottery-v2.json"
-        },
         "v3": {
           "address": "0xB5aAF28dAc18FD702F1Da7398FeC234B60c097eC",
           "abiUrl": "https://raw.githubusercontent.com/fanatica-art/abi/main/abi/MCLottery-v3.json"
+        }
+      },
+      "MCReferralHelper": {
+        "v1": {
+          "address": "0xF8C3a441e6a72473670C241E6c6c2Ed789A28028",
+          "abiUrl": "https://raw.githubusercontent.com/axador/ax-file-store/master/abi/MCReferralHelper-v1.json"
         }
       }
     },
@@ -63,7 +53,8 @@
       "MCNFT": "v2",
       "MCSingleMarket": "v3",
       "MCSingleAuction": "v3",
-      "MCLottery": "v3"
+      "MCLottery": "v3",
+      "MCReferralHelper": "v1"
     }
   }
 }
