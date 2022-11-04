@@ -257,7 +257,7 @@ pages.tokenPage.buyTicketForm.iBoughtLabel,Я купил,I bought,Yo compré ,Eu
 pages.tokenPage.buyTicketForm.ticketPriceLabel,Цена билета,Ticket price,Precio de un billete,Preço de um bilhete
 pages.tokenPage.buyTicketForm.ticketsSoldLabel,Билетов продано,Sold tickets,Billetes vendidos,Bilhetes vendidos
 pages.tokenPage.buyTicketForm.myShare,Доля {share},Share {share},Porcentaje {share},Porcentagem {share}
-pages.tokenPage.buyTicketForm.myTicketsValue,Я купил {ticketsLeft},I bought {ticketsLeft},Yo compré {ticketsLeft},Eu comprei {ticketsLeft}
+pages.tokenPage.buyTicketForm.myTicketsValue,Я купил {tickets},I bought {tickets},Yo compré {tickets},Eu comprei {tickets}
 pages.tokenPage.buyTicketForm.soldOutLabel,Всё продано,Everything is sold out,Todo está vendido,Esgotado
 pages.tokenPage.buyTicketForm.eventName,Лотерея,Lottery,Lotería,Loteria
 pages.tokenPage.buyTicketForm.ticketsLabel,Билеты,Tickets,Billetes,Bilhetes
